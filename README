@@ -1,0 +1,10 @@
+Project will help to integrate HW Encode as:
+- NVidia's CUDA Encoder 
+within API of x264 that can help to utilize speed up of video encode.
+
+No source code changes would be needed in the 3rd application that currently 
+use x264.
+
+please expect first commit within a week with a beta quality :)
+
+thanks you.
