@@ -1,10 +1,11 @@
-Project will help to integrate HW Encode as:
-- NVidia's CUDA Encoder 
-within API of x264 that can help to utilize speed up of video encode.
+Project will help to integrate HW Encode across GPU and/or CPU as:
+- NVidia's CUDA Video Encoder 
+- and more..
+within API of x264 that can help to improve the speed up of video encode process.
 
 No source code changes would be needed in the 3rd application that currently 
-use x264.
+use x264, Handbrake is taken for now.
 
-please expect first commit within a week with a beta quality :)
+please expect first commit within a week or two with a beta quality :)
 
 thanks you.
